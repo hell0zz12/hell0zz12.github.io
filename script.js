@@ -1,4 +1,4 @@
-// ===== Hexagon Site Script =====
+﻿// ===== Hexagon Site Script =====
 
 const translations = {
     en: {
