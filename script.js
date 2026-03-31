@@ -46,10 +46,17 @@ const translations = {
         faq_q2: 'Will I get banned?',
         faq_a2: 'Hexagon is actively maintained and updated to stay ahead of anti-cheat. We keep detection at zero so your account stays safe.',
         faq_q3: 'Which executor for Roblox?',
+<<<<<<< HEAD
         faq_a3: 'Any executor works \u2014 Synapse X, KRNL, Fluxus, Solara. Copy the loadstring, paste it in, hit execute.',
         faq_q4: 'How to load the Gamesense script?',
         faq_a4: 'Download the .lua file, open Gamesense, go to the Lua tab, click Load script and select the file. Done in 10 seconds.',
         footer_copy: '\u00a9 2026 Hexagon. Built to dominate.',
+=======
+        faq_a3: 'Any modern Roblox executor works. Just paste the loadstring and execute.',
+        faq_q4: 'How to use the Gamesense script?',
+        faq_a4: 'Download the .lua file, open Gamesense, go to Lua tab, click Load script and select the file. Done.',
+        footer_copy: '© 2026 Hexagon. The most stable shape in nature.',
+>>>>>>> d0addaefb3c9629a9772863cc6bd869896e59868
     },
     ru: {
         nav_products: '\u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b',
@@ -90,6 +97,7 @@ const translations = {
         download_btn: '\u0421\u043a\u0430\u0447\u0430\u0442\u044c',
         copy_btn: '\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c',
         faq_title: 'FAQ',
+<<<<<<< HEAD
         faq_subtitle: '\u0412\u0441\u0451 \u0447\u0442\u043e \u043d\u0443\u0436\u043d\u043e \u0437\u043d\u0430\u0442\u044c \u043f\u0435\u0440\u0435\u0434 \u043d\u0430\u0447\u0430\u043b\u043e\u043c.',
         faq_q1: 'Hexagon \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439?',
         faq_a1: '100% \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e. \u041d\u0438\u043a\u0430\u043a\u0438\u0445 \u043f\u043e\u0434\u043f\u0438\u0441\u043e\u043a, \u043f\u0435\u0439\u0432\u043e\u043b\u043b\u043e\u0432, \u043f\u043e\u0434\u0432\u043e\u0445\u043e\u0432. \u0421\u043a\u0430\u0447\u0430\u0439, \u0438\u043d\u044a\u0435\u0446\u0442\u0438\u0440\u0443\u0439, \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u0443\u0439.',
@@ -100,6 +108,18 @@ const translations = {
         faq_q4: '\u041a\u0430\u043a \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0441\u043a\u0440\u0438\u043f\u0442 Gamesense?',
         faq_a4: '\u0421\u043a\u0430\u0447\u0430\u0439 .lua \u0444\u0430\u0439\u043b, \u043e\u0442\u043a\u0440\u043e\u0439 Gamesense, \u0432\u043a\u043b\u0430\u0434\u043a\u0430 Lua, \u043d\u0430\u0436\u043c\u0438 Load script \u0438 \u0432\u044b\u0431\u0435\u0440\u0438 \u0444\u0430\u0439\u043b. \u0413\u043e\u0442\u043e\u0432\u043e \u0437\u0430 10 \u0441\u0435\u043a\u0443\u043d\u0434.',
         footer_copy: '\u00a9 2026 Hexagon. \u0421\u043e\u0437\u0434\u0430\u043d \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c.',
+=======
+        faq_subtitle: 'Частые вопросы о решётке.',
+        faq_q1: 'Hexagon бесплатный?',
+        faq_a1: 'Да. Все продукты Hexagon полностью бесплатны. Он принадлежит всем.',
+        faq_q2: 'Он необнаруживаемый?',
+        faq_a2: 'Hexagon создан с упором на структурную целостность. Наши скрипты регулярно обновляются для поддержания нулевого уровня обнаружения.',
+        faq_q3: 'Какой executor для Roblox?',
+        faq_a3: 'Подойдёт любой современный executor. Просто вставь loadstring и выполни.',
+        faq_q4: 'Как использовать скрипт для Gamesense?',
+        faq_a4: 'Скачай .lua файл, открой Gamesense, перейди во вкладку Lua, нажми Load script и выбери файл. Готово.',
+        footer_copy: '© 2026 Hexagon. Самая стабильная форма в природе.',
+>>>>>>> d0addaefb3c9629a9772863cc6bd869896e59868
     }
 };
 
